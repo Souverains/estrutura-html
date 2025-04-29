@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Optional external CSS -->
+</head>
+<body>
+
+    <h1>Ciência da Computação</h1>
+
+    <h2>Primeiro Semestre</h2>
+    <h3>Introdução ao Desenvolvimento Web</h3>
+        <p>HTML, GitHub, e afins</p>
+    <h3>Algoritmos e Programação</h3>
+        <p>Programação em Python</p>
+    <h3>Matemática C</h3>
+        <p>Pré-calculo</p>
+    <h3>Linguagem Textual Acadêmica</h3>
+        <p>Normas, resenhas, artigos, etc</p>
+    <h3>Introdução a Computação</h3>
+        <p>Introdução ao curso de Ciência da Computação e da história da Computação.</p>
+
+
+    <h2>Segundo Semestre</h2>
+    <h3>Introdução ao Desenvolvimento Web</h3>
+        <p>HTML, GitHub, e afins</p>
+    <h3>Algoritmos e Programação</h3>
+        <p>Programação em Python</p>
+    <h3>Matemática C</h3>
+        <p>Pré-calculo</p>
+    <h3>Linguagem Textual Acadêmica</h3>
+        <p>Normas, resenhas, artigos, etc</p>
+    <h3>Introdução a Computação</h3>
+        <p>Introdução ao curso de Ciência da Computação e da história da Computação.</p>
+
+        <h2>Terceiro Semestre</h2>
+    <h3>Introdução ao Desenvolvimento Web</h3>
+        <p>HTML, GitHub, e afins</p>
+    <h3>Algoritmos e Programação</h3>
+        <p>Programação em Python</p>
+    <h3>Matemática C</h3>
+        <p>Pré-calculo</p>
+    <h3>Linguagem Textual Acadêmica</h3>
+        <p>Normas, resenhas, artigos, etc</p>
+    <h3>Introdução a Computação</h3>
+        <p>Introdução ao curso de Ciência da Computação e da história da Computação.</p>
+
+
+    <h2>Quarto Semestre</h2>
+    <h3>Introdução ao Desenvolvimento Web</h3>
+        <p>HTML, GitHub, e afins</p>
+    <h3>Algoritmos e Programação</h3>
+        <p>Programação em Python</p>
+    <h3>Matemática C</h3>
+        <p>Pré-calculo</p>
+    <h3>Linguagem Textual Acadêmica</h3>
+        <p>Normas, resenhas, artigos, etc</p>
+    <h3>Introdução a Computação</h3>
+        <p>Introdução ao curso de Ciência da Computação e da história da Computação.</p>
+
+        <h2>Quinto Semestre</h2>
+    <h3>Introdução ao Desenvolvimento Web</h3>
+        <p>HTML, GitHub, e afins</p>
+    <h3>Algoritmos e Programação</h3>
+        <p>Programação em Python</p>
+    <h3>Matemática C</h3>
+        <p>Pré-calculo</p>
+    <h3>Linguagem Textual Acadêmica</h3>
+        <p>Normas, resenhas, artigos, etc</p>
+    <h3>Introdução a Computação</h3>
+        <p>Introdução ao curso de Ciência da Computação e da história da Computação.</p>
+
+        <h2>Sexto Semestre</h2>
+    <h3>Introdução ao Desenvolvimento Web</h3>
+        <p>HTML, GitHub, e afins</p>
+    <h3>Algoritmos e Programação</h3>
+        <p>Programação em Python</p>
+    <h3>Matemática C</h3>
+        <p>Pré-calculo</p>
+    <h3>Linguagem Textual Acadêmica</h3>
+        <p>Normas, resenhas, artigos, etc</p>
+    <h3>Introdução a Computação</h3>
+        <p>Introdução ao curso de Ciência da Computação e da história da Computação.</p>
+
+        <h2>Sétimo Semestre</h2>
+    <h3>Optativa</h3>
+        <p>HTML, GitHub, e afins</p>
+    <h3>Optativa</h3>
+        <p>Programação em Python</p>
+    <h3>Matemática C</h3>
+        <p>Pré-calculo</p>
+    <h3>Linguagem Textual Acadêmica</h3>
+        <p>Normas, resenhas, artigos, etc</p>
+    <h3>Introdução a Computação</h3>
+        <p>Introdução ao curso de Ciência da Computação e da história da Computação.</p>
+
+        <h2>Oitavo Semestre</h2>
+    <h3>Optativa</h3>
+        <p>HTML, GitHub, e afins</p>
+    <h3>Optativa</h3>
+        <p>Programação em Python</p>
+    <h3>Matemática C</h3>
+        <p>Pré-calculo</p>
+    <h3>Linguagem Textual Acadêmica</h3>
+        <p>Normas, resenhas, artigos, etc</p>
+    <h3>Introdução a Computação</h3>
+        <p>Introdução ao curso de Ciência da Computação e da história da Computação.</p>
+
+    <script src="script.js"></script> <!-- Optional external JS -->
+</body>
+</html>
